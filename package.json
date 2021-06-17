@@ -4,7 +4,6 @@
   "description": "Mailer service for viking apps",
   "main": "index.js",
   "scripts": {
-    "test": "cross-env NODE_ENV=test jest /test",
     "lint": "node_modules/eslint/bin/eslint.js \"**/*.js\"",
     "dev": "cross-env NODE_ENV=development node index.js",
     "start": "cross-env NODE_ENV=production node index.js"
