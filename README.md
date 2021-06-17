@@ -1,4 +1,4 @@
-# VK AUTH
+# VK MAILER
 Este servicio permite enviar correos.
 
 ## Set Up
